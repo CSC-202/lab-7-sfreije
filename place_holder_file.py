@@ -1,5 +1,8 @@
 #place holder file
 
+
+#if this did accidently end up being submitted please ignore this
+
 #make super secret  in spotifify from super secret elsewhere?
 #python 3 main.py "playlist link?"
 #track should have stuff for artist id, album idea, name, albumn, etc.
